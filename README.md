@@ -1,21 +1,52 @@
-# Hi there, I'm Ítalo Santana! 👋
+# Olá! Bem-vindo(a) ao meu repositório!
 
-I'm 22 years old, Brazilian, and I'm deeply passionate about the realm of data. I've recently embarked on my journey in the field of Machine Learning and I'm eager to delve deeper into this exciting domain.
+<br>
 
-## About Me
-- 🌱 Currently learning: Machine Learning and its applications in Data Science.
-- 👀 Interested in: Data Analysis, Machine Learning, Artificial Intelligence.
-- ⚡ Fun fact:'bears beets battlestar galactica'
+## Minha experiência:
 
-## Objectives
-- To learn and enhance my skills in Machine Learning.
-- To contribute to Data Science projects.
-- To explore challenging datasets and uncover intriguing insights.
+🌐 Tenho experiência em trabalhar com Python, SQL, C++ e suas bibliotecas para Ciência de Dados e Machine Learning<br>
+🎲 Trabalhei como freelancer analista de dados para cursos, clínicas e industrias no Brasil <br>
+📚 Estou estudando Gestão Tecnologia da Informação no C.E.S.A.R School <br>
+📧 Quer entrar em contato comigo? Envie um e-mail para jiss@cesar.school <br>
+<br>
+## Sobre mim:
 
-## Languages and Tools
-- Python
-- Pandas, NumPy, Scikit-learn
-- Jupyter Notebooks
-- Git, GitHub
+Olá! Meu nome é Ítalo, tenho 22 anos e sou estudante GTI na C.E.S.A.R School (média geral do curso: 90). Já estou no mercado de dados há 2 anos.<br>
 
-I'm excited to be a part of the Data Science community and collaborate on innovative projects. Let's learn and create together! 😊
+### Hard Skills:
+
+Python (scikit-learn, pandas, numpy, matplotlib, seaborn, FastApi)
+SQL
+Machine Learning (Modelos supervisionados, não supervisionados, deep learning e LLMs)
+Estatística descritiva e inferencial aplicada à análise de dados
+Excel e PowerBI  
+<br>
+
+<br>
+
+### Soft Skills:
+
+Comunicativo
+Trabalho em equipe
+Proatividade
+Senso de liderança
+Aprendo muito rápido
+Autodidata
+<br>
+
+<br>
+
+## Projetos em que atuei:
+
+Desenvolvimento de um aplicativo que mapeia crimes em tempo real, utilizando fastapi. (encontra-se no meu github)
+<br>
+
+<br>
+
+Quanto aos idiomas, sou fluente em português, possuo inglês Avançado.
+
+
+No GitHub, publico vários projetos pessoais relacionados à ciência de dados e Machine Learning.
+<br>
+
+Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
