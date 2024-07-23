@@ -4,7 +4,7 @@
 
 ## Minha experiência:
 
-🌐 Tenho experiência em trabalhar com Python, SQL, C++ e suas bibliotecas para Ciência de Dados e Machine Learning<br>
+🌐 Tenho experiência em trabalhar com Python, SQL e suas bibliotecas para Ciência de Dados e Machine Learning<br>
 🎲 Trabalhei como freelancer analista de dados para cursos, clínicas e industrias no Brasil <br>
 📚 Estou estudando Gestão Tecnologia da Informação no C.E.S.A.R School <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para jiss@cesar.school <br>
