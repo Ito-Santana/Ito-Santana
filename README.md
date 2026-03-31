@@ -11,8 +11,8 @@ MLOPS at trillia
                                                                                 
   - Brazil                                                  
   - joseitaloss12@gmail.com                         
-  - 🔗 [LinkedIn](https://www.linkedin.com/in/italo-santana) ·
-  [Medium](https://medium.com/@joseitaloss12) 
+  - [LinkedIn](https://www.linkedin.com/in/italo-santana) ·
+  - [Medium](https://medium.com/@joseitaloss12) 
                                                                                 
   ---                                                  
                                                                                 
